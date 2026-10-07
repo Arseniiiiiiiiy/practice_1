@@ -1,0 +1,6 @@
+ls
+ls folder1
+cd folder1
+wrong
+cd folder2
+ls

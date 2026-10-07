@@ -1,4 +1,4 @@
 {
-    "vfs": "vfs_from_config",
-    "script": "start.txt"
+    "vfs": "tests/vfs_deep",
+    "script": "tests/start3.txt"
 }
