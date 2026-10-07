@@ -1,0 +1,1 @@
+py main.py --vfs TEST_VFS --script start.txt

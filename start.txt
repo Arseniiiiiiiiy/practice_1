@@ -1,0 +1,5 @@
+ls
+cd 1
+ww
+ls 2
+cd docs

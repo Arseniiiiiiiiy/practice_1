@@ -1,0 +1,4 @@
+{
+    "vfs": "vfs_from_config",
+    "script": "start.txt"
+}
